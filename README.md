@@ -3,14 +3,15 @@
 
 Python implementation of hough transform for detecting lines in images.    
 Explanation of how the hough transform works in my blog post: [Understanding Hough Transform](https://alyssaq.github.io/2014/understanding-hough-transform)
+Implemented code into an ht class aiming to handle hough transform and allowing to visualize resulting lines in (x,y) space
 
 ## Requirements
-* Tested on Python 2.7 and Python 3.6
+* Tested on Python 3.6
 * `pip install -r requirements.txt`
 
 ## Usage
 ```py
-python hough_transform.py
+python ht.py
 ```
 ## Sample 
 ![hough transform image](imgs/output.png)
