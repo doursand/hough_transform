@@ -18,7 +18,7 @@ python ht.py
 
 ## Tests
 ```py
-python hough_transform_test.py
+python ht.py
 ```
 
 ## Resources
