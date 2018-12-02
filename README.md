@@ -16,6 +16,7 @@ python ht.py
 ```
 ## Sample 
 ![hough transform image](imgs/output.png)
+![hough transform image](imgs/output2.png)
 
 ## Tests
 ```py
