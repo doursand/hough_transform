@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Nov  5 14:05:23 2018
-
+work in progress ... add it to the class, automate download from quandl etc
 @author: doursand
 """
 
