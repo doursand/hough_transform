@@ -1,8 +1,5 @@
 # Hough Transform - Line Detection and drawing in original image
-[![Build Status](https://travis-ci.org/alyssaq/hough_transform.svg?branch=master)](https://travis-ci.org/alyssaq/hough_transform)
-
 Python implementation of hough transform for detecting lines in images.    
-Explanation of how the hough transform works in my blog post: [Understanding Hough Transform](https://alyssaq.github.io/2014/understanding-hough-transform)
 
 Enhanced original code : implemented a "ht" class to calculate hough transform, identify intersects, and finally draw resulting lines back in the (x,y) space
 
